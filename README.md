@@ -159,5 +159,3 @@ Current result: 3
 This application demonstrates a clean, modular, and extensible implementation of a command-based calculator. It uses best practices in software design, including design patterns, error handling, and separation of concerns. The code is well-documented and easy to maintain, showcasing my programming skills and attention to detail.
 
 ---
-
-**Developer Name**: Muhammad Zubair  
